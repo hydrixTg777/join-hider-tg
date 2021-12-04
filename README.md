@@ -1,4 +1,4 @@
-## JoinHider
+## JoinHider 👀
 
 ![logo](https://telegra.ph/file/618a1a11f70ec0a3d137d.jpg)
 
